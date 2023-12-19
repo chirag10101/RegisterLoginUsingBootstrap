@@ -1,0 +1,14 @@
+.xyz{
+    border: 2px solid red;
+    background-color: blueviolet;
+}
+
+.main{
+    height: 100vh;
+}
+
+@media (min-width: 1025px) {
+    .h-custom {
+    height: 100vh !important;
+    }
+}
